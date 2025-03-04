@@ -20,7 +20,7 @@ body {
 	font-size: 15px;
 	letter-spacing: 0.5px;
 	line-height: 1.5;
-	color: #1c1b1b;
+	color: #181515;
 }
 
 
@@ -909,7 +909,7 @@ button:focus {
 }
 
 .mu-content{
-	color: #aa2200;
+	color: #cab6b1;
 }
 .mu-rule-button,.mu-rule-close-button{
 	margin-top: 5%;
@@ -962,6 +962,7 @@ button:focus {
 	float: left;
 	padding: 100px 0;
 	width: 100%;
+	
 }
 
 .mu-speakers-content{
@@ -3303,7 +3304,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f3e2c7', end
 }
 
 #mu-speakers{
-      background-color: #303030;
+      background-color:#822525;
       -webkit-box-shadow:inset 0px 0px 800px #000000;
       box-shadow:inset 0px 0px 120px #000000;
 }
